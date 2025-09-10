@@ -1,0 +1,5 @@
+feedparser==6.0.11
+openai>=1.40.0
+beautifulsoup4==4.12.3
+html2text==2020.1.16
+python-dotenv==1.0.1
